@@ -35,7 +35,7 @@ iso8601==0.1.12
 itsdangerous==1.1.0 
 jinja2==2.8.1 
 lockfile==0.12.2 
-lxml==4.2.5 
+lxml==4.6.5 
 markdown==2.6.11 
 monotonic==1.5 
 numpy==1.15.4 
